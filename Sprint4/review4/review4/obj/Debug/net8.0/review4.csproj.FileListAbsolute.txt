@@ -1,0 +1,14 @@
+C:\Users\massacre\source\repos\review4\review4\bin\Debug\net8.0\review4.exe
+C:\Users\massacre\source\repos\review4\review4\bin\Debug\net8.0\review4.deps.json
+C:\Users\massacre\source\repos\review4\review4\bin\Debug\net8.0\review4.runtimeconfig.json
+C:\Users\massacre\source\repos\review4\review4\bin\Debug\net8.0\review4.dll
+C:\Users\massacre\source\repos\review4\review4\bin\Debug\net8.0\review4.pdb
+C:\Users\massacre\source\repos\review4\review4\obj\Debug\net8.0\review4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\massacre\source\repos\review4\review4\obj\Debug\net8.0\review4.AssemblyInfoInputs.cache
+C:\Users\massacre\source\repos\review4\review4\obj\Debug\net8.0\review4.AssemblyInfo.cs
+C:\Users\massacre\source\repos\review4\review4\obj\Debug\net8.0\review4.csproj.CoreCompileInputs.cache
+C:\Users\massacre\source\repos\review4\review4\obj\Debug\net8.0\review4.dll
+C:\Users\massacre\source\repos\review4\review4\obj\Debug\net8.0\refint\review4.dll
+C:\Users\massacre\source\repos\review4\review4\obj\Debug\net8.0\review4.pdb
+C:\Users\massacre\source\repos\review4\review4\obj\Debug\net8.0\review4.genruntimeconfig.cache
+C:\Users\massacre\source\repos\review4\review4\obj\Debug\net8.0\ref\review4.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\massacre\\source\\repos\\review4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF2FB78-F9D1-4FB0-BE77-B22899F87BC9}|review4\\review4.csproj|c:\\users\\massacre\\source\\repos\\review4\\review4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF2FB78-F9D1-4FB0-BE77-B22899F87BC9}|review4\\review4.csproj|solutionrelative:review4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\massacre\\source\\repos\\review4\\review4\\Program.cs",
+              "RelativeDocumentMoniker": "review4\\Program.cs",
+              "ToolTip": "C:\\Users\\massacre\\source\\repos\\review4\\review4\\Program.cs",
+              "RelativeToolTip": "review4\\Program.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAADwv28AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T19:06:10.927Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

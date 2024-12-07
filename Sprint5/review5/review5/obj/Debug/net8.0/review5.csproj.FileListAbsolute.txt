@@ -1,0 +1,14 @@
+C:\Users\massacre\source\repos\review5\review5\bin\Debug\net8.0\review5.exe
+C:\Users\massacre\source\repos\review5\review5\bin\Debug\net8.0\review5.deps.json
+C:\Users\massacre\source\repos\review5\review5\bin\Debug\net8.0\review5.runtimeconfig.json
+C:\Users\massacre\source\repos\review5\review5\bin\Debug\net8.0\review5.dll
+C:\Users\massacre\source\repos\review5\review5\bin\Debug\net8.0\review5.pdb
+C:\Users\massacre\source\repos\review5\review5\obj\Debug\net8.0\review5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\massacre\source\repos\review5\review5\obj\Debug\net8.0\review5.AssemblyInfoInputs.cache
+C:\Users\massacre\source\repos\review5\review5\obj\Debug\net8.0\review5.AssemblyInfo.cs
+C:\Users\massacre\source\repos\review5\review5\obj\Debug\net8.0\review5.csproj.CoreCompileInputs.cache
+C:\Users\massacre\source\repos\review5\review5\obj\Debug\net8.0\review5.dll
+C:\Users\massacre\source\repos\review5\review5\obj\Debug\net8.0\refint\review5.dll
+C:\Users\massacre\source\repos\review5\review5\obj\Debug\net8.0\review5.pdb
+C:\Users\massacre\source\repos\review5\review5\obj\Debug\net8.0\review5.genruntimeconfig.cache
+C:\Users\massacre\source\repos\review5\review5\obj\Debug\net8.0\ref\review5.dll
